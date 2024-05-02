@@ -4,16 +4,16 @@
 
 **Dataset and source code for paper "Automated Originality Assessment of academic Paper: A Collaborative Approach Integrating Human Expertise and Large Language Models".**
 
-This study introduces a novel methodology for evaluating the originality and decision-making processes of academic articles by leveraging peer reviews and the methodology sections of scholarly papers. The primary contributions of this paper include:
+This study introduces a novel method for evaluating the originality and decision-making processes of academic articles by leveraging peer reviews and the methodology sections of scholarly papers. The primary contributions of this paper include:
 
-- Proposing an innovative approach for predicting the originality and decision-making of academic articles.
+- Proposing a new method for predicting the originality and decision-making of academic articles.
 - Investigating a new method to combine human and artificial intelligence knowledge to enhance the performance of deep learning models.
 - Designing a text-guided fusion module to integrate human and artificial intelligence knowledge effectively, facilitating optimal utilization of both sources of information.
 - Conducting comprehensive experiments demonstrating the effectiveness of our methodology, which has yielded commendable results.
 
 ## Model overview
 
-We propose a framework consisting of knowledge-guided fusion module and two paralleled sub-tasks. The two paralleled sub-tasks are originality prediction (OP) and decision prediction (DP) respectively.<br>
+This study proposes a framework consisting of knowledge-guided fusion module and two paralleled sub-tasks. The two paralleled sub-tasks are originality prediction (OP) and decision prediction (DP) respectively.<br>
 
 ![c67c171d9cee7be81fce78e3b5d73fa](https://github.com/njust-winchy/originality_predict/assets/108659065/587c1b33-469e-4d36-aa21-c460c7b68a5d)
 
