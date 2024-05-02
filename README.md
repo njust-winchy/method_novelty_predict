@@ -34,7 +34,8 @@ originality_predict                               Root directory
 │   ├── p_predict.py                              Predict the result
 │   └── proposed_main.py                          Train the proposed model 
 │   └── read_data.py                              Load data for Review and Feedback
-├── Dataset                                        Preprocessed Dataset
+├── Dataset                                       Dataset folder
+│   └── Dataset.json                              Preprocessed Dataset
 │
 └── README.md
 </pre>
