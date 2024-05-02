@@ -15,7 +15,7 @@ This study introduces a novel methodology for evaluating the originality and dec
 
 We propose a framework consisting of knowledge-guided fusion module and two paralleled sub-tasks. The two paralleled sub-tasks are originality prediction (OP) and decision prediction (DP) respectively.<br>
 
-![case_study](https://github.com/njust-winchy/originality_predict/assets/108659065/9bec6ec3-482c-4ad4-9f76-bce0ddb8f731)
+![c67c171d9cee7be81fce78e3b5d73fa](https://github.com/njust-winchy/originality_predict/assets/108659065/587c1b33-469e-4d36-aa21-c460c7b68a5d)
 
 ## Directory structure
 
@@ -741,7 +741,7 @@ The dataset contains four contents:
 ## Case study
 
 We conduct a case study for different input and our method.
-![2a6640a5868e6464eebc35e0cfed68b](https://github.com/njust-winchy/originality_predict/assets/108659065/623ebff2-d4d2-402e-9d71-463742fce431)
+![case_study](https://github.com/njust-winchy/originality_predict/assets/108659065/9bec6ec3-482c-4ad4-9f76-bce0ddb8f731)
 
 ## Dependency packages
 System environment is set up according to the following configuration:
