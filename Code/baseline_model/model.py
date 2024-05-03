@@ -4,7 +4,7 @@ import torch
 import torch.nn as nn
 from transformers import *
 
-# 全局变量
+
 RANDOM_SEED = 400
 np.random.seed(RANDOM_SEED)
 torch.manual_seed(RANDOM_SEED)
