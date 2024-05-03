@@ -42,7 +42,9 @@ optimizer_grouped_parameters = [
 ]
 optimizer = torch.optim.AdamW(optimizer_grouped_parameters, lr=1e-5)
 
-#scheduler = torch.optim.lr_scheduler.StepLR(optimizer, step_size=5, gamma=0.1)  # 设定优优化器更新的时刻表
+#scheduler = torch.optim.lr_scheduler.StepLR(optimizer, step_size=5, gamma=0.1)  #Set the schedule for optimizer updates
+
+
 
 text_model.train()
 result = []
