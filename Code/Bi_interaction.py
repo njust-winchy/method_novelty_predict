@@ -27,7 +27,9 @@ class Nov_model(nn.Module):
         self.dropout = nn.Dropout(0.2)
         self.FC_layer = FullyConnectedLayer(128, n_classes)
     def forward(self, sentence_s, sentence_b, att_s, att_b):
+        # nov_sentence embedding
         sen_s = self.model(sentence_s, attention_mask = att_s).last_hidden_state
+        # chatgpt feedback embedding
         sen_b = self.model(sentence_b, attention_mask = att_b).last_hidden_state
         sentence_bb = self.self_att(sen_b)
         att_ss = self.sparse_att(sen_s, sentence_bb)
