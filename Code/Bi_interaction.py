@@ -32,10 +32,12 @@ class Nov_model(nn.Module):
         # chatgpt feedback embedding
         sen_b = self.model(sentence_b, attention_mask = att_b).last_hidden_state
         sentence_bb = self.self_att(sen_b)
+        # knowledge guided module
         att_ss = self.sparse_att(sen_s, sentence_bb)
-        #bi_output = self.dropout(self.FFN(att_ss))
         bi_output = self.dropout(self.FFN(att_ss))
+        # SelfAttentionReduction
         att_output = self.att_re(bi_output)
+        # predict
         output = self.FC_layer(att_output)
         return output
 
