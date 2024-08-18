@@ -18,7 +18,7 @@ class Data(Dataset):
     @classmethod
 
     def getReader(self):
-        with open('Final_dataset.json') as f:
+        with open('Dataset.json') as f:
             datasets = json.load(f)
         nov_dataset = []
         for t in tqdm(datasets):
