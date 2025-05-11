@@ -14,7 +14,7 @@ This study introduces a novel method for evaluating the originality and decision
 ## Model overview
 
 This study proposes a framework consisting of knowledge-guided fusion module.<br>
-[Figure4-eps-converted-to.pdf](https://github.com/user-attachments/files/20149405/Figure4-eps-converted-to.pdf)
+![Figure4-eps-converted-to.pdf](https://github.com/user-attachments/files/20149405/Figure4-eps-converted-to.pdf)
 
 ## Directory structure
 
