@@ -1,15 +1,15 @@
-# Automated Originality Assessment of academic Paper: A Collaborative Approach Integrating Human Expertise and Large Language Models
+# Automated Novelty Evaluation of Academic Paper: A Collaborative Approach Integrating Human and Large Language Model Knowledge
 
 ## Overview
 
-**Dataset and source code for paper "Automated Originality Assessment of academic Paper: A Collaborative Approach Integrating Human Expertise and Large Language Models".**
+**Dataset and source code for paper "Automated Novelty Evaluation of Academic Paper: A Collaborative Approach Integrating Human and Large Language Model Knowledge".**
 
-This study introduces a novel method for evaluating the originality and decision-making processes of academic articles by leveraging peer reviews and the methodology sections of scholarly papers. The primary contributions of this paper include:
+This study introduces a novel method for evaluating the method novelty of academic papers by leveraging peer reviews and the methodology sections of scholarly papers. The primary contributions of this paper include:
 
-- Proposing a new method for predicting the originality and decision-making of academic articles.
-- Investigating a new method to combine human and artificial intelligence knowledge to enhance the performance of deep learning models.
-- Designing a text-guided fusion module to integrate human and artificial intelligence knowledge effectively, facilitating optimal utilization of both sources of information.
-- Conducting comprehensive experiments demonstrating the effectiveness of our methodology, which has yielded commendable results.
+- Proposed a novel approach for predicting the method novelty of academic papers.
+- Explored a novel method to leverage the knowledge of both human and LLMs in aiding deep learning models to achieve enhanced performance.
+- Designed a text‐guided fusion module to guide and integrate the knowledge of both human and LLMs, enabling effective utilization of the knowledge..
+- Conducting comprehensive experiments demonstrating the effectiveness of the methodology, which has yielded commendable results.
 
 ## Model overview
 
