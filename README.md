@@ -430,4 +430,4 @@ We express our gratitude to the team at openreview.net for their dedication to a
 ## Citation
 Please cite the following paper if you use this code and dataset in your work.
     
->Wenqing Wu, Chengzhi Zhang\*, Yi Zhao. (2024). Automated Academic Paper Evaluation: A Collaborative Approach Integrating Human Expertise and Large Language Models. ***Journal of the Association for Information Science and Technology***.（in press) [[doi]](https://doi.org/10.1002/asi.70005) [[Dataset & Source Code]](https://github.com/njust-winchy/originality_predict/)) 
+>Wenqing Wu, Chengzhi Zhang\*, Yi Zhao. (2024). Automated Academic Paper Evaluation: A Collaborative Approach Integrating Human Expertise and Large Language Models. ***Journal of the Association for Information Science and Technology***.（in press) [[doi]](https://doi.org/10.1002/asi.70005) [[Dataset & Source Code]](https://github.com/njust-winchy/originality_predict/))  [[Information Matters]](https://informationmatters.org/2025/07/assess-novelty-in-academic-research-a-human-ai-collaborative-approach/)
