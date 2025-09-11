@@ -20,7 +20,7 @@ This study proposes a framework consisting of knowledge-guided fusion module.<br
 ## Directory structure
 
 <pre>
-originality_predict                               Root directory
+Method_novelty_predict                            Root directory
 ├── Code                                          Source code folder
 │   ├── baseline_model                            Baseline model folder
 │   │    ├── load_method.py                       Load data for Review and Method as input
